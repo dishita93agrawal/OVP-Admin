@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ovpadmin",
+    "slug": "snack-009f3a1e-e6c1-432e-9828-e555b4fa1758",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/vote4.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#9ADAE9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.adrian.ovpadmin",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
